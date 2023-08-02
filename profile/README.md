@@ -10,9 +10,7 @@ Unfortunately, the app does not currently support sharing blueprints with other 
 
 Overall, the Factorio Blueprint Maker app is a valuable tool for players looking to streamline their construction projects in the game, allowing them to quickly and easily create custom blueprints on the go.
 
-![Namnlös design](https://user-images.githubusercontent.com/86798194/235298223-7e389598-37b4-4652-94bd-2dba2ab90153.png)
-
-# Factorio Blueprint Maker Website
+## Factorio Blueprint Maker Website
 
 ### Blueprint Sharing Made Easy:
 Connect seamlessly to our mobile app and share your carefully crafted Factorio blueprints effortlessly. Whether it's an optimized factory layout, a smart logistics system, or a robust defense setup, simply upload your blueprints from the app to our website in a few easy steps.
