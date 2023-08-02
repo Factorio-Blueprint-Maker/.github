@@ -24,9 +24,6 @@ Before downloading a blueprint, enjoy detailed previews with zoomable images. Ex
 ### Rating and Review System:
 Share your feedback and experiences by leaving ratings and reviews on blueprints. Help identify top-rated designs and assist others in finding the most efficient solutions.
 
-### Tutorials and Guides:
-Access a wealth of tutorials, guides, and tips from seasoned players. Improve your Factorio skills and gain a deeper understanding of the game's intricacies.
-
 ### Sync Across Devices:
 Our website and app work seamlessly together, ensuring that any blueprints uploaded, downloaded, or modified on the website instantly sync with your app and vice versa. Access your blueprints wherever you play the game.
 
@@ -37,7 +34,6 @@ https://factorio-blueprint--maker.web.app/
 
 ## Getting Help
 For help, support, discussion or bugs please contact us at liam_nordvall@hotmail.com
-
 
 ## Credits
 The Factorio Blueprint Maker is mainly developed by Liam Nordvall and Henrik Werder togheter with other close collaborators
